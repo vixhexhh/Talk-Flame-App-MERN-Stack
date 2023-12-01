@@ -1,0 +1,10 @@
+.right-login {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 800px) {
+    .right-login img {
+        margin-bottom: 30px;
+    }
+}
+/* .btn- */
